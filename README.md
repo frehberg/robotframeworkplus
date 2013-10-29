@@ -7,8 +7,7 @@ The features are:
 - Embedding charts into the test-reports, for example to illustrate performance measurements etc.
 - Extended process management functionality.
 
-for the python svg.charts library.  Measured values can be converted into SVG diagrams,
-being embedded into the testsuite report (no external file).
+The Chart-tool generates SVG diagrams and embeds them into the test-report wihtout external files or references.
 
 ## Requirenments
 
