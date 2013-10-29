@@ -1,5 +1,4 @@
-
-RobotFramwork Tool Collection
+RobotFramework Tool Collection
 ====================
 
 This is a Collection of RobotFramework tools, functionality not yet provided by the RobotFramework test-framework (2.8.1). 
