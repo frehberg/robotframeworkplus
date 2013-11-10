@@ -21,7 +21,7 @@ machine. The following command must be executed to install svg.charts
 with root permission:
 
 ```
-sudo pip install svg.charts==2.0.5
+sudo pip install svg.charts
 ```
 
 The environment variable PYTHONPATH should point to the directory
