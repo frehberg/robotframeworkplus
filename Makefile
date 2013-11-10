@@ -1,3 +1,3 @@
 
 clean:
-	rm -f src/*~ *.html *.xml tests/*~
+	rm -f src/*~ *.html *.xml tests/*~ ./*~
