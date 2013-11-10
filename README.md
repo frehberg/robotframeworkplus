@@ -44,7 +44,7 @@ viewed by web-browser.
 
 - Python 2.7.3 (or later)
 - RobotFramework 2.8.1 (or later)
-- Python SVG Charting Library svg.charts 2.0.5 (or later)
+- Python SVG Charting Library svg.charts 2.2 (or later)
 
 ## Usage
 
