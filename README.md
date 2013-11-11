@@ -1,7 +1,8 @@
-RobotFramework Tool Collection
+RobotFramework-Plus Tool Collection
 ====================
 
-This is a Collection of RobotFramework tools, functionality not yet provided by the RobotFramework test-framework (2.8.1). 
+This is a Collection of RobotFramework tools, functionality not yet
+provided by the RobotFramework test-framework (2.8.1).
 
 The features are:
 
@@ -21,20 +22,20 @@ machine. The following command must be executed to install svg.charts
 with root permission:
 
 ```
-sudo pip install svg.charts
+sudo pip install robotframework svg.charts robotframeworkplus
 ```
 
 The environment variable PYTHONPATH should point to the directory
 where the tool colleciton is located, for example
 
 ```
-export PYTHONPATH=$HOME/robotframework_tools/lib
+export PYTHONPATH=$HOME/robotframeworkplus/lib
 ```
 
 Executing the demo-tests:
 
 ```
-PYTHONPATH=$HOME/robotframework_tools/lib pybot $HOME/robotframework_tools/demo
+PYTHONPATH=$HOME/robotframeworkplus/lib pybot $HOME/robotframework_tools/demo
 ```
 
 The bar-chart will be embedded into the report.html file and can be
