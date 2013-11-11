@@ -6,7 +6,7 @@ try:
 except ImportError:
     logger.error('Python library svg.charts not present! Perform "sudo pip install svg.charts"')
 
-class Chart:
+class RobotChart:
     ROBOT_LIBRARY_SCOPE = 'TEST SUITE'
 
     def __init__(self):

@@ -1,6 +1,6 @@
 
 *** Settings ***
-Library    Chart
+Library    RobotChart
 Library    Process
 Test Template     Measure Square And Cubic
 Suite Teardown    Embed Chart Diagrams 
