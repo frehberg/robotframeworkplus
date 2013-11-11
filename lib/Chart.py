@@ -18,6 +18,8 @@ class Chart:
 
         add_to_chart('Poll Mode', [mesg_size, msg_per_sec, throughput])
         '''
+        log_msg = 'This is a tuple {0}'.format(values)
+        logger.info(log_msg )
         if not test_seq_name in  self._value_list:
              self._value_list[test_seq_name] = []
         self._value_list[test_seq_name] += [ values ]

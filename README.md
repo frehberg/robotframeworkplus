@@ -28,13 +28,13 @@ The environment variable PYTHONPATH should point to the directory
 where the tool colleciton is located, for example
 
 ```
-export PYTHONPATH=$HOME/robotframework_tools/src
+export PYTHONPATH=$HOME/robotframework_tools/lib
 ```
 
 Executing the demo-tests:
 
 ```
-PYTHONPATH=$HOME/robotframework_tools/src pybot $HOME/robotframework_tools/tests
+PYTHONPATH=$HOME/robotframework_tools/lib pybot $HOME/robotframework_tools/demo
 ```
 
 The bar-chart will be embedded into the report.html file and can be

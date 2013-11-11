@@ -1,3 +1,6 @@
 
+chartdemo:
+	PYTHONPATH=lib/ pybot --include chart demo/
+
 clean:
-	rm -f src/*~ *.html *.xml tests/*~ ./*~
+	rm -f demo/*~ *.html *.xml lib/*~ ./*~
