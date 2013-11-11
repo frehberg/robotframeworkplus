@@ -38,7 +38,8 @@ PYTHONPATH=$HOME/robotframework_tools/lib pybot $HOME/robotframework_tools/demo
 ```
 
 The bar-chart will be embedded into the report.html file and can be
-viewed by web-browser.
+viewed by web-browser (see [docs/screenshot-chart.png](docs/screenshot-chart.png)), 
+
 
 ## Compatibility
 
